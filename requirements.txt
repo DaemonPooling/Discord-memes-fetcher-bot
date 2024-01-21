@@ -1,0 +1,9 @@
+httpx
+asyncio
+colorama
+threading
+os
+dotenv
+discord
+re
+random
