@@ -1,4 +1,4 @@
-![image](https://github.com/DaemonPooling/Discord-memes-fetcher-bot/assets/157283533/ae8951bb-da15-4e80-b5a5-7d9fb187f22e)![image](https://github.com/DaemonPooling/Discord-memes-fetcher-bot/assets/157283533/6065b9fe-d3a9-4bb0-a078-d0aa8a553b31)# Python meme Magician 🧙‍♂️
+# Python meme Magician 🧙‍♂️
 Welcome to Python meme Magician! A script where your one-stop solution for meme retrieval and random meme generation in the blink of an eye! 🚀
 
 ## 🌈 What's Inside?
